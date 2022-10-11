@@ -954,7 +954,7 @@ section {
     margin: 2px;
   }
 
-
+}
 /*--------------------------------------------------------------
 # Breadcrumbs
 --------------------------------------------------------------*/
@@ -1009,7 +1009,7 @@ section {
   font-size: 14px;
   position: relative;
   left: 0;
-  bottom: -100px;
+  bottom: 0;
   width: 300px;
   z-index: 9999;
   background: #040b14;
@@ -1037,6 +1037,7 @@ section {
 
 #footerdetail {
   padding: 15px;
+  color: #f4f6fd;
   font-size: 14px;
   position: fixed;
   left: 0;
@@ -1048,14 +1049,13 @@ section {
 
 #footerdetail .copyright {
   text-align: center;
-  color: #040b14;
 }
 
 #footerdetail .credits {
   padding-top: 5px;
   text-align: center;
   font-size: 13px;
-  color: #040b14;
+  color: #eaebf0;
 }
 
 @media (max-width: 1199px) {
