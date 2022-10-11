@@ -1009,7 +1009,7 @@ section {
   font-size: 14px;
   position: relative;
   left: 0;
-  bottom: 0;
+  bottom: -100px;
   width: 300px;
   z-index: 9999;
   background: #040b14;
