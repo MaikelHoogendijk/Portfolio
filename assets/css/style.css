@@ -690,6 +690,17 @@ section {
   padding: 0;
 }
 
+@media (max-width: 768px) {
+  .portfolio-details .container{
+    height: 100%;
+  }
+
+  .portfolio-details .portfolio-description {
+    padding-top: 30px;
+    overflow: hidden;
+  }
+}
+
 /*--------------------------------------------------------------
 # Services
 --------------------------------------------------------------*/
