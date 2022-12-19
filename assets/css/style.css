@@ -622,7 +622,7 @@ section {
 # Portfolio Details
 --------------------------------------------------------------*/
 .portfolio-details .container{
-  height: 800px;
+  height: 750px;
 }
 
 .portfolio-details {
@@ -682,7 +682,7 @@ section {
 
 .portfolio-details .portfolio-description h2 {
   font-size: 26px;
-  font-weight: 700;
+  font-weight: 650;
   margin-bottom: 20px;
 }
 
