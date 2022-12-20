@@ -704,6 +704,10 @@ section {
 */
 @media (max-width: 520px) {
 
+  .portfolio-details .container{
+    height: 100%;
+  }
+
   .portfolio-details .portfolio-description {
     padding-top: 30px;
     overflow: hidden;
