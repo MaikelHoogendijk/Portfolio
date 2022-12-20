@@ -690,7 +690,7 @@ section {
   padding: 0;
 }
 
-@media (max-width: 1199px) {
+@media (max-width: 750px) {
   .portfolio-details .container{
     height: 750px;
   }
@@ -701,7 +701,7 @@ section {
   }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 650px) {
   .portfolio-details .container{
     height: auto;
   }
