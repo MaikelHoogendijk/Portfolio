@@ -692,7 +692,7 @@ section {
 
 @media (max-width: 1199px) {
   .portfolio-details .container{
-    height: 750pc;
+    height: 750px;
   }
 
   .portfolio-details .portfolio-description {
