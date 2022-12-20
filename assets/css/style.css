@@ -690,6 +690,17 @@ section {
   padding: 0;
 }
 
+@media (max-width: 1199px) {
+  .portfolio-details .container{
+    height: 750pc;
+  }
+
+  .portfolio-details .portfolio-description {
+    padding-top: 30px;
+    overflow: auto;
+  }
+}
+
 @media (max-width: 768px) {
   .portfolio-details .container{
     height: auto;
