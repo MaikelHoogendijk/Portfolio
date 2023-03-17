@@ -675,9 +675,19 @@ section {
 }
 
 .portfolio-details .portfolio-description {
-  padding-top: 30px;
+  /*padding-top: 30px;
   overflow: auto;
-  height:500px
+  height:500px*/
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+
+.portfolio-details .portfolio-description-2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
 
 .portfolio-details .portfolio-description h2 {
