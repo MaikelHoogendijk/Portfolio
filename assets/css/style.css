@@ -626,8 +626,12 @@ section {
 }
 
 .portfolio-details {
-  padding-top: 40px;
-  max-height: 100%;
+  /*padding-top: 40px;
+  max-height: 100%;*/
+  display: flex;
+  align-items: center;
+  justify-content: right;
+  height: 100%;
 }
 
 .portfolio-details .portfolio-details-slider img {
@@ -680,7 +684,7 @@ section {
   height:500px*/
   display: flex;
   flex-direction: column;
-  justify-content: right-bottom;
+  justify-content: right;
 }
 
 .portfolio-details .portfolio-description h2 {
