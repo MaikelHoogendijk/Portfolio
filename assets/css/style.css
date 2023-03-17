@@ -679,9 +679,11 @@ section {
   overflow: auto;
   height:500px*/
   display: flex;
-  align-items: center;
+  align-items: flex-start;
   justify-content: center;
-  height: 80%;
+  overflow: auto;
+  height: 400px;
+  margin-top: 20px;
 }
 
 .portfolio-details .portfolio-description-2 {
