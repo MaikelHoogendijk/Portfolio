@@ -710,6 +710,7 @@ section {
   .portfolio-details .portfolio-description {
     padding-top: 30px;
     overflow: hidden;
+    height: 100%;
   }
 }
 
